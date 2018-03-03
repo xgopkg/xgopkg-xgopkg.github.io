@@ -1,1 +1,6 @@
+title: Xgopkg
+description: Xgopkg is a service for manage your go package.
+show_downloads: true
 theme: jekyll-theme-slate
+github:
+  repository_url: https://github.com/xgopkg/xgopkg
