@@ -4,3 +4,5 @@ show_downloads: true
 theme: jekyll-theme-slate
 github:
   repository_url: https://github.com/xgopkg/xgopkg
+  zip_url: https://github.com/xgopkg/xgopkg.github.io/zipball/master
+  tar_url: https://github.com/xgopkg/xgopkg.github.io/tarball/master
